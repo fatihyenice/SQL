@@ -43,4 +43,3 @@ FROM tag;
 -- Exo 1.12
 -- Écrivez la requête qui permet de lister les students n'ayant pas de project
 -- Note : les students sans project ont une colonne `project_id` qui est nulle
-
